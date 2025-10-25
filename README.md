@@ -25,6 +25,7 @@ This repository contains a custom OpenCore EFI configuration for running macOS o
 - **Touch Screen**
 - **Thunderbolt 3** over USB-C
 - **All USB ports**
+- **SLEEP** still uses some battery, though
 
 ---
 
