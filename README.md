@@ -45,6 +45,10 @@ This repo contains the full EFI folder, including:
 
 Make sure to mount your EFI partition and replace its contents with this folder.
 
+Also don't forget to  generate your own SMBIOS data
+
+I used MacBookPro16,4
+
 ---
 
 ## 🛠️ Credits
