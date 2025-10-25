@@ -45,6 +45,9 @@ This repo contains the full EFI folder, including:
 
 Make sure to mount your EFI partition and replace its contents with this folder.
 
+Actualiza el nombre de tu CPU con:
+https://github.com/corpnewt/CPU-Name
+
 Also don't forget to  generate your own SMBIOS data
 
 I used MacBookPro16,4
