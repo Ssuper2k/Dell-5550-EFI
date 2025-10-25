@@ -56,6 +56,7 @@ I used MacBookPro16,4
 More info:
 
 https://www.reddit.com/r/hackintosh/comments/1lwm1kh/dell_precision_5550_sequoia_155/
+https://www.reddit.com/r/hackintosh/comments/1of71um/last_dance_for_intel_hackbook_pro/
 
 ---
 
