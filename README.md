@@ -49,6 +49,10 @@ Also don't forget to  generate your own SMBIOS data
 
 I used MacBookPro16,4
 
+More info:
+
+https://www.reddit.com/r/hackintosh/comments/1lwm1kh/dell_precision_5550_sequoia_155/
+
 ---
 
 ## 🛠️ Credits
