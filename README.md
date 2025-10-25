@@ -4,7 +4,7 @@ This repository contains a custom OpenCore EFI configuration for running macOS o
 
 ## 🧰 System Specs
 
-- **CPU**: Intel Core i7-10750H  
+- **CPU**: Intel Core i7-10875H  
 - **iGPU**: Intel UHD 630 (1536MiB)  
 - **SSD**: Samsung 960 Pro 512GiB (M.2 NVMe)  
 - **RAM**: 32GiB (2×16GiB @ 2933MHz)  
